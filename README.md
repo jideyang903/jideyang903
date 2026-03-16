@@ -38,7 +38,7 @@
 
 - **LingBot-VLA Reproduction**: 在 RoboTwin 环境下复现并微调具身大模型，实现高精度的物体抓取与放置。
 - **Hardware Integration**: 基于 LeRobot 开源框架，搭建低成本、高性能的具身智能实验台。
-- **Digital Twin in Agriculture**: 探索数字孪生技术在农业自动化（如棉花/番茄生长监测）中的前沿应用。
+
 
 ---
 
