@@ -30,7 +30,7 @@
 > 我致力于研究视觉-语言-动作（Vision-Language-Action）模型的跨任务泛化能力，目标是让机器人能够像人类一样通过自然语言指令在复杂环境中执行操控任务。
 > 
 > **Reinforcement Learning & Sim-to-Real**
-> 深入探索 PPO、SAC 等强化学习算法在 RoboTwin 2.0 等仿真环境中的训练表现，并尝试通过迁移学习将策略部署至 **LeRobot SO-101** 等真实硬件。
+> 深入探索 PPO、GRPO等强化学习算法在 RoboTwin 2.0 等仿真环境中的训练表现，并尝试通过迁移学习将策略部署至 **LeRobot SO-101** 等真实硬件。
 
 ---
 
