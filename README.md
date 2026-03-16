@@ -45,7 +45,7 @@
 ## 👨🏻‍💻 Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jideyang903&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="left">
@@ -75,6 +75,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 ---
 
 ## ✨ Quote
