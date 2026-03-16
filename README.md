@@ -9,7 +9,7 @@
 <p align="center">
   🤖 Focus on Embodied Intelligence | VLA Models | Reinforcement Learning <br>
   🔧 Reproducing SOTA at <b>LeRobot</b> & <b>RoboTwin</b> <br>
-  📧 Email: <a href="mailto:your_email@example.com">your_email[@]example.com</a>
+  📧 Email: <a href="mailto:your_email@example.com">jideyang903[@]163.com</a>
 </p>
 
 ---
