@@ -75,3 +75,12 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+---
+
+## ✨ Quote
+> *"The best way to predict the future is to create it."* — Peter Drucker
+> *(或者你喜欢的： "Do, or do not. There is no 'try'." — Yoda)*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
