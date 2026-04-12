@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  🤖 Focus on Embodied Intelligence | VLA Models | Reinforcement Learning <br>
-  🔧 Reproducing SOTA at <b>LeRobot</b> & <b>RoboTwin</b> <br>
+  🤖 Focus on Embodied Intelligence | VLA Models | WAM| Reinforcement Learning <br>
   📧 Email: <a href="mailto:your_email@example.com">jideyang903[@]163.com</a>
 </p>
 
